@@ -1,6 +1,0 @@
-#include<stdio.h>
-int main()
-{
-    printf("김회환");
-    printf("%d", 202310919)
-}
